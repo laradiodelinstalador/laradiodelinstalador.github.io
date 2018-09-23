@@ -2268,37 +2268,22 @@ body {
 .cid-r14WEfcnK8 .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-r16iyIDogB {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/formulario-1-1200x750.jpg");
+.cid-r4uioykocQ {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f3f4f6;
 }
-.cid-r1Ey3dQhDN {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+.cid-r4uioykocQ .testimonial-text {
+  font-style: italic;
+  color: #676767;
+  font-weight: 300;
 }
-.cid-r1Ey3dQhDN .title {
-  margin-bottom: 2rem;
+.cid-r4uioykocQ .mbr-author-name {
+  font-weight: bold;
+  color: #232;
 }
-.cid-r1Ey3dQhDN .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-r1Ey3dQhDN a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-r1Ey3dQhDN a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-r1Ey3dQhDN .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-r1Ey3dQhDN .input-group-btn {
-  display: block;
-  text-align: center;
+.cid-r4uioykocQ .mbr-author-desc {
+  color: #232;
 }
 .cid-r16iEJ3I93 {
   padding-top: 30px;

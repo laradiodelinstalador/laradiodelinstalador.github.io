@@ -49,8 +49,9 @@
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
-    "siteUrl": "",
-    "sitemapSwitcherAuto": "on"
+    "siteUrl": "http://www.laradiodelinstalador.cf",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
